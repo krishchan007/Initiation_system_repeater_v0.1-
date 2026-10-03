@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "0_LoRA_Module")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/0_LoRA_Module.pretty")(options "")(descr ""))
+  (lib (name "0_MOV")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints/0_MOV.pretty")(options "")(descr ""))
+)
